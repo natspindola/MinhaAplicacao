@@ -10,7 +10,7 @@ namespace MinhaAplicacao
     {
         static void Main(string[] args)
         {
-
+            
         }
     }
 }
